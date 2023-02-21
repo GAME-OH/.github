@@ -11,7 +11,7 @@ We have participated in several game jams and are constantly working on new proj
 
 Here are some of our recent projects:
 
-- [Dice Shot](https://github.com/game-oh/dice-shot): a dungeon crawler top-down shooter created for the GMTK game jam 2022.
+- [Dice Shot](https://cloudyin.itch.io/dice-shot): a dungeon crawler top-down shooter created for the GMTK game jam 2022.
 
 
 ## Contributing
